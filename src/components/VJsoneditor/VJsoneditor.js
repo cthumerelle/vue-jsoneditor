@@ -33,7 +33,7 @@ export default {
   },
   watch: {
     value(value) {
-      this.jsoneditor.set(value);
+      //this.jsoneditor.set(value);
     },
   },
   methods: {
